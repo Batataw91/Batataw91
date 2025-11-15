@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, moi c’est **Ouweyss**
 
-<!--
-**Batataw91/Batataw91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BUT Mesures Physiques (IUT d’Orsay – Paris-Saclay)**  
+🛠️ **Apprenti technicien métrologie – CURIUMPharma**  
+📍 France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences & centres d’intérêt
+
+- **Électronique & Systèmes embarqués :** Arduino, ESP32, IoT Carrier  
+- **Capteurs & Instrumentation :** acoustique, PT1000, IMU, RGB-D  
+- **Vision & Traitement d’images :** RealSense D455, OpenCV, AprilTags  
+- **Programmation :** Python, C/C++ (Arduino)  
+
+
+---
+
+## 🎯 Objectifs
+Me spécialiser en **ingénierie électronique / instrumentation**, et créer des projets techniques mêlant capteurs, acquisition et traitement du signal.
+
+---
+
+## 📂 Projets présents ici
+🤖 Développement embarqué & projets persos  
+
+---
+
+## 📫 Contact
+ouweyssbouzidi@gmail.com
